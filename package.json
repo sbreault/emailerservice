@@ -1,0 +1,16 @@
+{
+  "name": "emailerservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.4.6",
+    "nodemon": "^2.0.3",
+    "smtp-client": "^0.3.1"
+  }
+}
