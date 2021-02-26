@@ -1,7 +1,7 @@
 const mailer = require('nodemailer');
  
 const HOST='localhost';
-const PORT=2525;
+const PORT=8900;
 
 const opentransport = mailer.createTransport({
     host: HOST,
